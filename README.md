@@ -18,4 +18,6 @@ _Having a positive outlook on tasks or things that you are not confident about, 
 
 3. I can ask others for advice who have been doing something longer than me.
 
+# My Portfolio Page
 
+[Take a look!](https://github.com/jenran24) 
