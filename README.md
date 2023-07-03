@@ -21,3 +21,12 @@ _Having a positive outlook on tasks or things that you are not confident about, 
 # My Portfolio Page
 
 [Take a look!](https://github.com/jenran24) 
+
+# Markdown
+
+## What is it?
+
+Markdown is the syntax to use when coding in GitHub. It allows for the designer to create different text effects, structures, and formats when creating a webpage. We use Markdown to help make webpages more engaging and to create easy to read, formatted web pages.
+
+## What are some examples?
+
