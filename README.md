@@ -24,4 +24,4 @@ _Having a positive outlook on tasks or things that you are not confident about, 
 
 # Markdown
 
-[Click here!](docs/Markdown.md)
+[Click here!](Markdown.md)
