@@ -4,7 +4,7 @@ My reading journal for CodeFellows - woohoo!
 
 # Code 102
 
-[*About Me*](https://jenran24.github.io/reading-notes/About_Me.html)
+[*About Me*](https://jenran24.github.io/reading-notes/AboutMe.html)
 
 [*Growth Mindset*](https://jenran24.github.io/reading-notes/GrowthMindset.html)
 
