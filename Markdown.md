@@ -19,5 +19,7 @@ You can do common text editing using Markdown using symbols found on your keboar
 ## Resources
 
 [**Markdown: Getting Started**](https://www.markdownguide.org/getting-started/)
+
 [**Markdown Basic Syntax**](https://www.markdownguide.org/basic-syntax/)
+
 [**Mastering Markdown on GitHub**](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
