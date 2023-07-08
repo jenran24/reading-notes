@@ -2,6 +2,8 @@
 
 My reading journal for CodeFellows - woohoo!
 
+![Shepherd reading up on notes](https://static.vecteezy.com/system/resources/thumbnails/022/709/021/small/generative-ai-illustration-of-intelligent-serious-dog-in-glasses-reading-a-book-volumn-light-photo.jpg)
+
 # Code 102
 
 [*About Me*](https://jenran24.github.io/reading-notes/AboutMe.html)
