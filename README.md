@@ -17,3 +17,7 @@ My reading journal for CodeFellows - woohoo!
 ## Markdown
 
 [Click here!](https://jenran24.github.io/reading-notes/Markdown.html)
+
+## The Coder's Computer'
+
+[Ta da!](https://jenran24.github.io/reading-notes/CodersComputer.html)
