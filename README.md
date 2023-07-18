@@ -18,6 +18,11 @@ My reading journal for CodeFellows - woohoo!
 
 [Click here!](https://jenran24.github.io/reading-notes/Markdown.html)
 
-## The Coder's Computer'
+## The Coder's Computer
 
 [Ta da!](https://jenran24.github.io/reading-notes/CodersComputer.html)
+
+## Revisions and the Cloud
+
+[Journey Forth](https://jenran24.github.io/reading-notes/revisionsandthecloud.html)
+
