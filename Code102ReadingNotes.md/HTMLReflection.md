@@ -1,4 +1,4 @@
-*HTML Reflection*
+# HTML Reflection
 
 HTML stands for "Hyper Text Markup Language," which is code that is used to structure a webpage. Anyting on a webpage, from the text to the formatting, is made with HTML.
 

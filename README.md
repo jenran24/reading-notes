@@ -8,25 +8,25 @@ Hi! My name is Jenna (she/her/hers), and I'm from Oregon. I have been an element
 
 ## Code 102 Table of Contents
 
-[*Class 1*](<Code 102 Reading Notes.md/Class1.md>)
+[*Class 1*](<Code102ReadingNotes.md/Class1.md>)
 
-[*Class 2*](<Code 102 Reading Notes.md/Class2.md>)
+[*Class 2*](<Code102ReadingNotes.md/Class2.md>)
 
-[*Class 3*](<Code 102 Reading Notes.md/Class3.md>)
+[*Class 3*](<Code102ReadingNotes.md/Class3.md>)
 
-[Revisions and the Cloud Reflection](<Code 102 Reading Notes.md/RevisionsandtheCloud.md>)
+[Revisions and the Cloud Reflection](<Code102ReadingNote.md/RevisionsandtheCloud.md>)
 
-[HTML Reflection](<Code 102 Reading Notes.md/HTMLReflection.md>)
+[HTML Reflection](<Code102ReadingNotes.md/HTMLReflection.md>)
 
-[*Class 4*](<Code 102 Reading Notes.md/Class4.md>)
+[*Class 4*](<Code102ReadingNotes.md/Class4.md>)
 
-[*Class 5*](<Code 102 Reading Notes.md/Class5.md>)
+[*Class 5*](<Code102ReadingNotes.md/Class5.md>)
 
-[*Class 6*](<Code 102 Reading Notes.md/Class6.md>)
+[*Class 6*](<Code102ReadingNotes.md/Class6.md>)
 
-[*Class 7*](<Code 102 Reading Notes.md/Class7.md>)
+[*Class 7*](<Code102ReadingNotes.md/Class7.md>)
 
-[*Class 8*](<Code 102 Reading Notes.md/Class8.md>)
+[*Class 8*](<Code102ReadingNotes.md/Class8.md>)
 
 
 ## Code 201 Table of Contents
@@ -60,3 +60,5 @@ Class 13
 Class 14
 
 Class 15
+
+[def]: <Code 102 Reading Notes.md/RevisionsandtheCloud.md>
