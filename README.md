@@ -10,19 +10,19 @@ Hi! My name is Jenna (she/her/hers), and I'm from Oregon. I have been an element
 
 [*Class 1*](<Code 102 Reading Notes.md/Class1.md>)
 
-[*Class 2*](https://jenran24.github.io/reading-notes/Class2.html)
+[*Class 2*](<Code 102 Reading Notes.md/Class2.md>)
 
-[*Class 3*](https://jenran24.github.io/reading-notes/Class3.html)
+[*Class 3*](<Code 102 Reading Notes.md/Class3.md>)
 
-[*Class 4*](https://jenran24.github.io/reading-notes/Class4.html)
+[*Class 4*](<Code 102 Reading Notes.md/Class4.md>)
 
-[*Class 5*](https://jenran24.github.io/reading-notes/Class5.html)
+[*Class 5*](<Code 102 Reading Notes.md/Class5.md>)
 
-[*Class 6*](https://jenran24.github.io/reading-notes/Class6.html)
+[*Class 6*](<Code 102 Reading Notes.md/Class6.md>)
 
-[*Class 7*](https://jenran24.github.io/reading-notes/Class7.html)
+[*Class 7*](<Code 102 Reading Notes.md/Class7.md>)
 
-[*Class 8*](https://jenran24.github.io/reading-notes/Class8.html)
+[*Class 8*](<Code 102 Reading Notes.md/Class8.md>)
 
 
 ## Code 201 Table of Contents
