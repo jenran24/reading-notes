@@ -8,7 +8,7 @@ Hi! My name is Jenna (she/her/hers), and I'm from Oregon. I have been an element
 
 ## Code 102 Table of Contents
 
-[*Class 1*](https://jenran24.github.io/reading-notes/Class1.html)
+[*Class 1*](<Code 102 Reading Notes.md/Class1.md>)
 
 [*Class 2*](https://jenran24.github.io/reading-notes/Class2.html)
 
