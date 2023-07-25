@@ -14,6 +14,8 @@ Hi! My name is Jenna (she/her/hers), and I'm from Oregon. I have been an element
 
 [*Class 3*](<Code 102 Reading Notes.md/Class3.md>)
 
+[Revisions and the Cloud Reflection](<Code 102 Reading Notes.md/RevisionsandtheCloud.md>)
+
 [*Class 4*](<Code 102 Reading Notes.md/Class4.md>)
 
 [*Class 5*](<Code 102 Reading Notes.md/Class5.md>)
