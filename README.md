@@ -28,7 +28,6 @@ Hi! My name is Jenna (she/her/hers), and I'm from Oregon. I have been an element
 
 [*Class 8*](<Code102ReadingNotes.md/Class8.md>)
 
-
 ## Code 201 Table of Contents
 
 Class 1
@@ -60,5 +59,3 @@ Class 13
 Class 14
 
 Class 15
-
-[def]: <Code 102 Reading Notes.md/RevisionsandtheCloud.md>
